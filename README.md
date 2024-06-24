@@ -1,2 +1,2 @@
 # TM-NLP-ER
-The code should be able to run in google colab without a problem. If running in a different environment make sure all the libraries have been installed to the versions reuired.
+Project for the course "509488 - Text mining and natural language processing" held by professors Maria Teresa Guasti, Gabriella Pasi and Alessandro Raganato. The project aims to transform text into embeddings which will be used in sentiment classification.
